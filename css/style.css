@@ -1,0 +1,350 @@
+
+
+
+header{
+    position: fixed;
+    width: 100%;
+    background-color: #fff;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    z-index: 100;
+    top: 0;
+  }
+
+
+  
+  
+  footer{
+    position: fixed;
+    width: 100%;
+    background-color: #fff;
+    bottom:0;
+    padding: 5px;
+    text-align: right;
+    font-size: 10px;
+  }
+  
+  header h1{
+    font-size: 20px;
+  }
+  
+  header ul{
+    display: flex;
+    margin-left: auto;
+  }
+  
+  header ul li{
+    margin-left: 20px;
+  }
+
+
+
+
+h2 {
+    font-weight: normal;
+    padding-bottom: 10px;
+    text-align: center;
+    position: relative;
+    margin: 100px 0 30px 0;
+    letter-spacing: 5px;
+    position: relative;
+    padding: 1rem 2rem calc(1rem + 10px);
+    background: #fff100;
+}
+
+h2:before {
+    position: absolute;
+    top: -7px;
+    left: -7px;
+    width: 100%;
+    height: 100%;
+    content: '';
+    border: 4px solid #000;
+  }
+  
+
+ /*
+a {
+    color: #fff;
+    text-decoration: none;
+    background-color: #F44336;
+    display: block;
+    padding: 15px 25px;
+    border-radius: 5px;
+    box-shadow: 0 4px 0 0 #9e2b23;
+    font-weight: bold;
+    width: 300px;
+    text-align: center;
+    margin: 110px auto 0;
+    letter-spacing: 2px;
+}*/
+
+p.text {
+    width: 50%;
+    line-height: 2;
+    display: inline-block;
+    padding: 20px;
+    position: relative;
+    /*z-index: 999;*/
+    margin: 50px 0 0;
+    color: rgb(2, 255, 158);
+    background-color: #fff100;
+    letter-spacing: 2px;
+}
+
+
+.University1 {
+    font-weight: normal;
+    padding-bottom: 10px;
+    text-align: center;
+    position: relative;
+    margin: 100px 0 30px 0;
+    letter-spacing: 5px;
+    position: relative;
+    padding: 1rem 2rem calc(1rem + 10px);
+    background: #fff100;
+
+    padding: 1rem 2rem;
+    color: rgb(0, 0, 0);
+    -webkit-box-shadow: 15px 15px 0 #000000;
+    box-shadow: 5px 5px 0 #000000;
+
+}
+
+
+ 
+.University2 {
+    font-weight: normal;
+    padding-bottom: 10px;
+    text-align: center;
+    position: relative;
+    margin: 100px 0 30px 0;
+    letter-spacing: 5px;
+    position: relative;
+    padding: 1rem 2rem calc(1rem + 10px);
+    background: #fff100;
+    
+
+    padding: 1rem 2rem;
+    color: rgb(0, 0, 0);
+    -webkit-box-shadow: 15px 15px 0 #000000;
+    box-shadow: 5px 5px 0 #000000;
+}
+
+
+.University3 {
+    font-weight: normal;
+    padding-bottom: 10px;
+    text-align: center;
+    position: relative;
+    margin: 100px 0 30px 0;
+    letter-spacing: 5px;
+    position: relative;
+    padding: 1rem 2rem calc(1rem + 10px);
+    background: #fff100;
+
+
+    padding: 1rem 2rem;
+    color: rgb(0, 0, 0);
+    -webkit-box-shadow: 15px 15px 0 #000000;
+    box-shadow: 5px 5px 0 #000000;
+}
+
+
+.University4 {
+    font-weight: normal;
+    padding-bottom: 10px;
+    text-align: center;
+    position: relative;
+    margin: 100px 0 30px 0;
+    letter-spacing: 5px;
+    position: relative;
+    padding: 1rem 2rem calc(1rem + 10px);
+    background: #fff100;
+
+    padding: 1rem 2rem;
+    color: rgb(0, 0, 0);
+    -webkit-box-shadow: 15px 15px 0 #000000;
+    box-shadow: 5px 5px 0 #000000;
+}
+
+
+.University5 {
+    font-weight: normal;
+    padding-bottom: 10px;
+    text-align: center;
+    position: relative;
+    margin: 100px 0 30px 0;
+    letter-spacing: 5px;
+    position: relative;
+    padding: 1rem 2rem calc(1rem + 10px);
+    background: #fff100;
+
+    padding: 1rem 2rem;
+    color: rgb(0, 0, 0);
+    -webkit-box-shadow: 15px 15px 0 #000000;
+    box-shadow: 5px 5px 0 #000000;
+}
+
+
+.University6 {
+    font-weight: normal;
+    padding-bottom: 10px;
+    text-align: center;
+    position: relative;
+    margin: 100px 0 30px 0;
+    letter-spacing: 5px;
+    position: relative;
+    padding: 1rem 2rem calc(1rem + 10px);
+    background: #fff100;
+
+    padding: 1rem 2rem;
+    color: rgb(0, 0, 0);
+    -webkit-box-shadow: 15px 15px 0 #000000;
+    box-shadow: 5px 5px 0 #000000;
+}
+
+.University7 {
+    font-weight: normal;
+    padding-bottom: 10px;
+    text-align: center;
+    position: relative;
+    margin: 100px 0 30px 0;
+    letter-spacing: 5px;
+    position: relative;
+    padding: 1rem 2rem calc(1rem + 10px);
+    background: #fff100;
+
+    padding: 1rem 2rem;
+    color: rgb(0, 0, 0);
+    -webkit-box-shadow: 15px 15px 0 #000000;
+    box-shadow: 5px 5px 0 #000000;
+}
+
+ 
+html {
+    background-color: #a8e4ff;
+}
+ 
+#contents {
+    /*overflow: hidden;*/
+    background-color: #fff;
+    padding: 30px 30px 30px;
+    max-width: 700px;
+    margin: 20px auto;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.18);
+    border-radius: 3px;
+    position: relative;
+}
+ 
+img {
+    height: 300px;
+    display: inline-block;
+    vertical-align: top;
+    position: absolute;
+    right: 30px;
+}
+
+.link_sample1{
+  transition:1s all;
+}
+   .link_sample1:hover{
+    transition:1s all;
+    color:rgb(255, 0, 0);
+   }
+   .link_sample2{
+    transition:1s all;
+   }
+   .link_sample2:hover{
+    padding-left:1em;
+    transition:1s all;
+   }
+
+   .newName{
+    transition:1s all;
+    display:inline-block;
+   }
+   .newName:hover{
+    transform:rotateY(360deg);
+    transition:1s all;
+   }
+
+   .newName1{
+    transition:1s all;
+   }
+   .newName1:hover{
+    padding-left:1em;
+    transition:1s all;
+   }
+
+.UniversityName{
+  transition:1s all;
+}
+
+.UniversityName:hover{
+  color:rgb(255, 0, 0);
+  font-size: 2em;
+}
+
+.personName,.personName span {
+	display: inline-block;
+	color: #000000;
+}
+.personName span{
+    transition:1s all;
+}
+.personName:hover span{
+    transform: rotateX(360deg);
+}
+
+/* 通常時はホバー時の文字を非表示にする */
+a .menu1Hover{
+  display: none;
+}
+/* ホバー時は通常時の文字を非表示にする */
+a:hover .menu1{
+  display: none;
+}
+/* ホバー時に、ホバー時の文字を表示する */
+a:hover .menu1Hover{
+  display: inline;
+}
+
+/* 通常時はホバー時の文字を非表示にする */
+a .menu2Hover{
+    display: none;
+  }
+  /* ホバー時は通常時の文字を非表示にする */
+  a:hover .menu2{
+    display: none;
+  }
+  /* ホバー時に、ホバー時の文字を表示する */
+  a:hover .menu2Hover{
+    display: inline;
+  }
+
+  /* 通常時はホバー時の文字を非表示にする */
+a .menu3Hover{
+    display: none;
+  }
+  /* ホバー時は通常時の文字を非表示にする */
+  a:hover .menu3{
+    display: none;
+  }
+  /* ホバー時に、ホバー時の文字を表示する */
+  a:hover .menu3Hover{
+    display: inline;
+  }
+
+  a .menu4Hover{
+    display: none;
+  }
+  /* ホバー時は通常時の文字を非表示にする */
+  a:hover .menu4{
+    display: none;
+  }
+  /* ホバー時に、ホバー時の文字を表示する */
+  a:hover .menu4Hover{
+    display: inline;
+  }
